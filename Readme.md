@@ -1,3 +1,7 @@
+I was having some issues while working with Sniper Multicore Simulator 7.2 with Pin tools 3.11. 
+So I followed the logs and found some ways to clean things up and make it workable. Keeping it here so that in future I might use the same application without any hassles. 
+======================================================================================================================
+
 <ol>
   <li> Download the necessary files
   <ol>
