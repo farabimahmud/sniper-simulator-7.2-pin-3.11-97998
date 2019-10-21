@@ -58,7 +58,7 @@
         <li> sift/recorder/globals.cc </li>
         <li> frontend/pin-frontend/globals.cc </li>
         <li> sift/standalone_pin3.0/globals.h </li> 
-        <li> sift/recorder/globals.hh </li>
+        <li> sift/recorder/globals.h </li>
         <li> frontend/pin-frontend/globals.h </li>
         <li> sift/standalone_pin3.0/papi.cc </li>
         <li> sift/recorder/papi.cc </li>
